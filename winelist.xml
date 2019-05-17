@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <winelist>
-	<season>Spring 2019</season>
+	<season>Spring/Summer 2019</season>
 	<!--
 			PRICES
 			Case prices are specified here ex-VAT;
@@ -13,8 +13,8 @@
 	-->
 	<vatrate>20</vatrate><!-- % -->
 	<duty><!-- duty per dozen, ie per case -->
-		<still>27.96</still>
-		<sparkling>34.51</sparkling>
+		<still>25.01</still>
+		<sparkling>32.03</sparkling>
 	</duty>
 	<!--
 			pricebreak is breakpoint in the retail bottle price that divides
@@ -98,7 +98,7 @@
 	<introduction medium="print">
     	<para>
 			Bouquet Wines grew out of my passionate interest in wine, and I sold my
-			first case twenty-five years ago, in 1990.  In 1997 I passed the rigorous Master of Wine
+			first case nearly 30 years ago in 1990.  In 1997 I passed the rigorous Master of Wine
 			examinations, winning the Madame Bollinger Prize for Excellence in Tasting
 			and the Sainsbury Prize for my dissertation on Cool Climate Viticulture.
 			Over time the list has grown to its present offering of nearly 70 keenly
@@ -123,8 +123,8 @@
 	<wines>
 		<style name="Whites" id="white">
 			<wine>
-				<name>Grüner Veltliner Löss 2017 <domain>Schloss Gobelsburg</domain></name>
-				<caseprice>98.08</caseprice>
+				<name>Grüner Veltliner Löss 2018 <domain>Schloss Gobelsburg</domain></name>
+				<caseprice>100.80-</caseprice>
 				<description>
 					The Grüner Veltliner is Austria’s prime grape variety, producing dry,
 					fruity wines with an attractive peppery, herbal character. The finest
@@ -148,8 +148,8 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Riesling Steinterrassen 2016 <domain>Stadt Krems</domain></name>
-				<caseprice>126.05</caseprice>
+				<name>Riesling Steinterrassen 2017 <domain>Stadt Krems</domain></name>
+				<caseprice>116.80</caseprice>
 				<description>
 					The boyish-looking <person>Fritz Miesbauer</person> propelled the Austrian
 					co-operative Freie Weingärtner Wachau to fame in the 1990s and is now
@@ -161,7 +161,7 @@
 			</wine>
     		<wine>
 				<name>Rapaura Springs Sauvignon Blanc 2018</name>
-				<caseprice>84.27</caseprice>
+				<caseprice>86.08</caseprice>
 				<description>
 					Sauvignon Blanc has become the signature wine grape of New Zealand, and this
 					tasty example, with its combination of zingy
@@ -181,8 +181,8 @@
 			</wine>
 			
 			<wine>
-        <name>Petit Chablis 2016 <domain>Domaine Billaud-Simon</domain></name>
-				<caseprice>158.69</caseprice>
+        <name>Petit Chablis 201 <domain>Domaine Billaud-Simon</domain></name>
+				<caseprice>165.39</caseprice>
 				<description>
 					It’s rare that a ‘Petit Chablis’ makes an impression, but this wine from <person>Bernard Billaud</person>
 					always stands out in comparative tastings. From the outstanding 2015 vintage, its unoaked, pure, lemony character combined with zingy acidity and minerality would give many more
@@ -210,7 +210,7 @@
 			</wine>
 			<wine>
       			<name>Chardonnay Grand Ardèche 2016 <domain>Louis Latour</domain></name>
-				<caseprice>97.23</caseprice>
+				<caseprice>98.03</caseprice>
 				<description><person>
 					Jancis Robinson</person>, <acronym title="Master of Wine">MW</acronym>
 					colleague and wine writer, described this elegant, subtly oaked
@@ -223,7 +223,7 @@
      
 			<wine>
 				<name>Vergelegen Reserve Chardonnay 2016</name>
-				<caseprice>130.43</caseprice>
+				<caseprice>129.40</caseprice>
 				<description>
 					Wines from South Africa tend to lie somewhere between the rich, ripe styles of New World wines and the 
 					more subtle styles of the Old World. Vergelegen’s elegant Reserve Chardonnay combines smoky tropical aromas and flavours of
@@ -252,8 +252,8 @@
         </description>
       </wine>
       <wine>
-				<name>Lugana 2016 <domain>Nunzio Ghiraldi</domain></name>
-				<caseprice>94.40</caseprice>
+				<name>Lugana 2017 <domain>Nunzio Ghiraldi</domain></name>
+				<caseprice>97.60</caseprice>
 				<description>
 					Trebbiano di Lugana is actually the Verdicchio grape, and is responsible for some
 					remarkable wines in vineyards near the shores of Lake Garda in Lombardia.
@@ -264,8 +264,8 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Verdicchio di Matelica 2015 <domain>La Monacesca</domain></name>
-				<caseprice>97.15</caseprice>
+				<name>Verdicchio di Matelica 2017 <domain>La Monacesca</domain></name>
+				<caseprice>102.56</caseprice>
 				<description>
 					To people used to the dull Verdicchio of the past, the wines now produced
 					from this grape are an exciting revelation. This
@@ -274,17 +274,9 @@
 					guava and white peaches plus a hint of camomile (<bottleprice/> a bottle).
 				</description>
 			</wine>
-			<wine>
-				<name>Mirum Verdicchio Riserva 2015 <domain>La Monacesca</domain></name>
-				<caseprice>180.00</caseprice>
-				<description>Made from slightly overripe Verdicchio grapes, the Mirum Reserva is a
-				real showstopper - rich, peachy yet surprisingly refreshing. It’s lovely to drink now but will
-				age gracefully. Try it with young cheese, cured meat antipasti, roast chicken, or veal (<bottleprice/> a bottle).
-				</description>
-			</wine>
 			<wine >
-				<name>Greco di Tufo ‘Loggia’ 2016 <domain>Terredora</domain></name>
-				<caseprice>125.60</caseprice>
+				<name>Greco di Tufo ‘Loggia’ 2017 <domain>Terredora</domain></name>
+				<caseprice>129.60</caseprice>
 				<description>
 					The Greco di Tufo grape is of ancient Greek origin and grows along
 					the coastal areas of Campania in Italy, where it has recently gained
@@ -302,7 +294,7 @@
 				</description>
 			</wine><wine>
 				<name>La Segreta Biancho 2017 <domain>Planeta</domain></name>
-				<caseprice>78.45</caseprice>
+				<caseprice>76.00</caseprice>
 				<description>
 					When I first visited this dynamic Sicilian producer in 2004, I found its
 					state-of-the-art winery and the quality of its wines most impressive.  Returning
@@ -314,7 +306,7 @@
 			</wine>
       <wine>
 				<name>Albariño 2017<domain>Fefiñanes</domain></name>
-				<caseprice>147.20</caseprice>
+				<caseprice>152.64</caseprice>
 				<description>
 					Rias Baixas in northwestern Spain is the home of one of my favourite grapes - the fragrant, stylish Albariño.
 		          It makes delightful, bone dry, aromatic whites that are completely beguiling, with aromas and flavours of
@@ -323,8 +315,8 @@
 				</description>
 			</wine>
       		<wine>
-				<name>Santorini Estate Assyrtiko 2016 <domain>Argyros</domain></name>
-				<caseprice>181.76</caseprice>
+				<name>Santorini Estate Assyrtiko 2017 <domain>Argyros</domain></name>
+				<caseprice>211.80</caseprice>
 				<description>
 					I visited Greece with a group of fellow Masters of Wine in 2013, and one of
 					many highlights was our visit to the beautiful Aegean island of Santorini with its blue-domed,
@@ -335,8 +327,8 @@
 				</description>
 			</wine>
  			<wine>
-				<name>Soave Classico ‘Campo dei Tovi’ 2016<domain>Inama</domain></name>
-				<caseprice>112.48</caseprice>
+				<name>Soave Classico ‘Campo dei Tovi’ 2017<domain>Inama</domain></name>
+				<caseprice>116.96</caseprice>
 				<description>
 					<person>Stefano Inama</person>, the dynamic, youthful winemaker at this
 					family firm, makes the most delicious Soave I’ve come across. It has unexpected
@@ -347,8 +339,8 @@
 				</description>
 			</wine>
 			<wine>
-			  <name>Amigos White 2016 <domain>McHenry Hohnen</domain></name>
-				<caseprice>116.29</caseprice>
+			  <name>Amigos White 2017 <domain>McHenry Hohnen</domain></name>
+				<caseprice>121.09</caseprice>
 				<description>
 					This intriquing barrel-fermented white, a blend of Marsanne, Roussanne and Chardonnay grapes, has a creamy texture, complex floral and fruity aromas,
 					and melon and white peach flavours.  It’s part of an exciting range of wines
@@ -402,8 +394,8 @@
 				</description>
 			</wine>
 			<wine new="yes">
-				<name>Côtes du Rhône ‘Le Temps Est Venu’ 2015 <domain>Domaine Ogier</domain></name>
-				<caseprice>110.69</caseprice>
+				<name>Côtes du Rhône ‘Le Temps Est Venu’ 2016 <domain>Domaine Ogier</domain></name>
+				<caseprice>113.33</caseprice>
 				<description>
 					<person>Stéphane Ogier</person> makes some ethereal Syrah wines in the Côte Rôtie, and I was delighted to find that he
 					is also now making a fantastic Côtes du Rhône. This fruity, supple red, a blend of 80%
@@ -424,8 +416,8 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Beaujolais ‘Origine’ Vieilles Vignes 2017 <domain>Domaine du Vissoux</domain></name>
-				<caseprice>120.56</caseprice>
+				<name>Beaujolais ‘Origine’ Vieilles Vignes 2018 <domain>Domaine du Vissoux</domain></name>
+				<caseprice>119.52</caseprice>
 				<description>
 					A really good example of how Beaujolais can and should taste, this 100%
 					Gamay wine is produced organically and bottled without filtration to
@@ -434,19 +426,7 @@
 					fruit on the palate (<bottleprice/> a bottle).
 				</description>
 			</wine>
-     		<wine>
-				<name>Mercurey Rouge 2015 <domain>Château de Chamirey</domain></name>
-				<caseprice>241.36</caseprice>
-				<description>
-					The charming village of Mercurey is situated to the south of Burgundy’s Côte de Beaune in the
-					Côte Chalonnais.  I first visited it in 1991 and was enchanted by its gentle rolling hills and
-					lovely Pinot Noir wines.  On a return visit in 2007, I discovered the delicious, silky-textured
-					reds made by the Devillard family at Château de Chamirey. It would
-					go well with sausages,
-					burgers and grilled meats, as well as spicy Indian and Thai dishes (<bottleprice/>	a bottle).
-				</description>
-			</wine>
-			<wine>
+     	<wine>
 				<name>Savigny-lès-Beaune 2014 <domain>Jean-Jacques Girard</domain></name>
 				<caseprice>160.00</caseprice>
 				<description>
@@ -468,7 +448,7 @@
 		
  			<wine>
 				<name>Marques de Murrieta Rioja Reserva 2014</name>
-					<caseprice>172.67</caseprice>
+					<caseprice>177.57</caseprice>
 				<description>
 					Marques de Murrieta is one of the two oldest Rioja producers, the other being the Marques de Riscal, and its wines today are better than ever. 
 					The 2013 Reserva, a blend of Tempranillo, Mazuelo, Graciano and Garnacha grapes, has been aged for 20 months in American oak and another year
@@ -508,8 +488,8 @@
 				</description>
 			</wine>	
      		<wine>
-				<name>Meerlust Rubicon 201454</name>
-				<caseprice>213.47</caseprice>
+				<name>Meerlust Rubicon 2015</name>
+				<caseprice>219.89</caseprice>
 				<description>
 					A longstanding personal favourite, Rubicon is the flagship of the Meerlust collection,
 					and the 2014 rivals the excellent 2009 in quality. I paid a visit on my trip to South Africa in 2015, and 
@@ -523,7 +503,7 @@
 		
 				<wine>
 				<name>Mendoza Malbec 2017 <domain>Altos Las Hormigas</domain></name>
-				<caseprice>118.96</caseprice>
+				<caseprice>103.57</caseprice>
 				<description>
 					Malbec is to me the distinctive Argentinian grape, and the Mendoza
 					region in the foothills of the Andes produces its finest examples. This
@@ -535,7 +515,7 @@
 			</wine>
 			<wine>
 				<name>La Rosine Syrah 2015 <domain>Domaine Michel et Stéphane Ogier</domain></name>
-				<caseprice>185.36</caseprice>
+				<caseprice>193.33</caseprice>
 				<description>
 					Stéphane Ogier makes sublime wines in the Northern Rhone, an impression that was confirmed when I
 					visited his small estate near Ampuis a few years ago. Last year I was treated to a tasting and lunch
@@ -561,7 +541,7 @@
 
 			<wine>
 				<name>Promised Land Shiraz/Cabernet 2015 <domain>Wakefield Wines</domain></name>
-				<caseprice>65.63</caseprice>
+				<caseprice>70.69</caseprice>
 				<description>
 					It’s not easy to find an affordable Shiraz/Cabernet blend, but this one from Wakefield Wines
 					in South Australia’s Clare Valley ticks all the boxes. Its soft, silky textures and juicy damson and
@@ -595,7 +575,7 @@
   
    			<wine>
 				<name>Barco Reale 2016 <domain>Tenuta di Capezzana</domain></name>
-				<caseprice>150.96</caseprice>
+				<caseprice>132.37</caseprice>
 				<description>
 					Tenuta di Capezzana is a beautiful estate northwest of Florence dating
 					from the time of the Medicis and built around an elegant Renaissance
@@ -605,8 +585,8 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Chianti Classico 2013 <domain>Castello di Bossi</domain></name>
-				<caseprice>179.51</caseprice>
+				<name>Chianti Classico 2015 <domain>Castello di Bossi</domain></name>
+				<caseprice>185.76</caseprice>
 				<description>
 					My friend <person>Michael Palij</person> <acronym title="Master of Wine">MW</acronym>,
 					who has a nose for great Italian wine, first
@@ -620,7 +600,7 @@
 			</wine>
 			<wine>
 				<name>Chianti Classico 2015 <domain>Fontodi</domain></name>
-				<caseprice>226.16</caseprice>
+				<caseprice>200.05</caseprice>
 				<description>
 					On my first visit to this family-run Tuscan property in 1994, I was
 					impressed not only by the quality of the wines and the impeccable new
