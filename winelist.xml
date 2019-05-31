@@ -13,19 +13,14 @@
 	-->
 	<vatrate>20</vatrate><!-- % -->
 	<duty><!-- duty per dozen, ie per case -->
-		<still>25.01</still>
-		<sparkling>32.03</sparkling>
+		<still>26.76</still>
+		<sparkling>34.32</sparkling>
 	</duty>
 	<!--
 			pricebreak is breakpoint in the retail bottle price that divides
 			reds and whites into two lists
 	-->
 	<pricebreak>15.00</pricebreak>
-	<links>
-		<link href="http://www.lafromagerie.co.uk/">La Fromagerie, Marylebone</link>
-		<link href="http://www.malabar-restaurant.co.uk/">Malabar Restaurant, Notting Hill</link>
-		<link href="http://www.domainefaverot.eu/">Domaine Faverot, AOC Côtes du Luberon</link>
-	</links>
 	<aboutme>
 		<para>
 			I’m Anne Tupker, a member of the <a href="http://www.masters-of-wine.org/">Institute of Masters of Wine</a>,
@@ -135,7 +130,7 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Grüner Veltliner Weinzierlberg 2017 <domain>Stadt Krems</domain></name>
+				<name>Grüner Veltliner Weinzierlberg 2018 <domain>Stadt Krems</domain></name>
 				<caseprice>129.28</caseprice>
 				<description>
 					Austria’s Grüner Veltliner grape produces a variety of wine styles, from
@@ -152,8 +147,8 @@
 				<caseprice>116.80</caseprice>
 				<description>
 					The boyish-looking <person>Fritz Miesbauer</person> propelled the Austrian
-					co-operative Freie Weingärtner Wachau to fame in the 1990s and is now
-					making his mark at Stadt Krems in neighbouring Kremstal.  His Riesling
+					co-operative Freie Weingärtner Wachau to fame in the 1990s and has now
+					made his mark at Stadt Krems in neighbouring Kremstal.  His Riesling
 					Steinterrassen, with its lovely perfumed nose and bone dry, crunchy, green apple
 					flavours is a brilliant example of his wizardry – gorgeous now but
 					promising more complexity and a long life ahead (<bottleprice/> a bottle).
@@ -181,19 +176,19 @@
 			</wine>
 			
 			<wine>
-        <name>Petit Chablis 201 <domain>Domaine Billaud-Simon</domain></name>
+        <name>Petit Chablis 2017 <domain>Domaine Billaud-Simon</domain></name>
 				<caseprice>165.39</caseprice>
 				<description>
 					It’s rare that a ‘Petit Chablis’ makes an impression, but this wine from <person>Bernard Billaud</person>
-					always stands out in comparative tastings. From the outstanding 2015 vintage, its unoaked, pure, lemony character combined with zingy acidity and minerality would give many more
+					always stands out in comparative tastings. From the outstanding 2017 vintage, its unoaked, pure, lemony character combined with zingy acidity and minerality would give many more
 					expensive Chablis a run for their money (<bottleprice/> a bottle).
 				</description>
 			</wine>
 			<wine>
-        <name>Chablis 2015 <domain>Domaine Billaud-Simon</domain></name>
-				<caseprice>172.76</caseprice>
+        <name>Chablis 2017 <domain>Domaine Billaud-Simon</domain></name>
+				<caseprice>182.05</caseprice>
 				<description>
-					This is textbook Chablis from one of my favourite producers and the excellent 2015 vintage. It combines tingling acidity with appetising citrus, 
+					This is textbook Chablis from one of my favourite producers and the excellent 2017 vintage. It combines tingling acidity with appetising citrus, 
 					white peach and green apple flavours. Delicious now, it will reward cellaring for another five years or longer (<bottleprice/> a bottle).
 				</description>
 			</wine>
@@ -241,8 +236,8 @@
 			</wine>
 		
 			<wine>
-			  <name>Falerio 2017 <domain>Saladini Pilastri</domain></name>
-        <caseprice>56.00</caseprice>
+			  <name>Falerio 2018 <domain>Saladini Pilastri</domain></name>
+        <caseprice>57.60</caseprice>
         <description>
           This tasty blend of Trebbiano, Passerina and Pecorino grapes comes
           from the 300 year-old organic estate of Count Saladini Pilastri in The Marche region
@@ -265,7 +260,7 @@
 			</wine>
 			<wine>
 				<name>Verdicchio di Matelica 2017 <domain>La Monacesca</domain></name>
-				<caseprice>102.56</caseprice>
+				<caseprice>103.68</caseprice>
 				<description>
 					To people used to the dull Verdicchio of the past, the wines now produced
 					from this grape are an exciting revelation. This
@@ -315,7 +310,7 @@
 				</description>
 			</wine>
       		<wine>
-				<name>Santorini Estate Assyrtiko 2017 <domain>Argyros</domain></name>
+				<name>Santorini Estate Assyrtiko 'Cuvée Monsignori' 2017 <domain>Argyros</domain></name>
 				<caseprice>211.80</caseprice>
 				<description>
 					I visited Greece with a group of fellow Masters of Wine in 2013, and one of
@@ -351,7 +346,7 @@
 			</wine>
 			<wine>
 				<name>Viognier ‘Les Vignes d’à Côté’ 2016 <domain>Yves Cuilleron</domain></name>
-				<caseprice>165.36</caseprice>
+				<caseprice>170.99</caseprice>
 				<description>
 					The voluptuous Viognier grape makes deliciously aromatic white wines with notes of honeysuckle, peaches
 					and cream in its original habitat of the northern Rhône Valley in France. <person>Yves Cuilleron</person>
@@ -362,8 +357,8 @@
 		</style>
 		<style name="Rosés" id="rosé">
 		<wine>
-				<name>Domaine de Petit Chaumont Gris de Gris 2017</name>
-				<caseprice>86.69</caseprice>
+				<name>Domaine de Petit Chaumont Gris de Gris 2018</name>
+				<caseprice>90.99</caseprice>
 				<description>
 					I’ve been looking for ages for a reasonably priced, yet tasty rosé, and this one from organically farmed vineyards in the Camargue
 					region of southern France ticks all the boxes. A blend of Grenache Gris and Grenache Noir, it has an attractive pale salmon
@@ -372,8 +367,8 @@
 				</description>
 			</wine>
 			<wine>
-				<name>Château Roubine 2017</name>
-				<caseprice>164.03</caseprice>
+				<name>Château Roubine Premier Cru 2018</name>
+				<caseprice>173.65</caseprice>
 				<description>
 					Provençal rosés are much in vogue at the moment, and many can be short on depth and flavour. Desite its pale, blush pink colour, this lovely blend of the local Tibouren grape plus Cinsault, Grenache, Mourvèdre and
 					Cabernet is bursting with intense aromas and flavours reminiscent of <phrase lang="fr">fraises des bois</phrase> and ripe red fruits. It comes from prime organic vineyards in the heart of Province,
@@ -385,7 +380,7 @@
 		<style name="Reds" id="red">
 			<wine>
 				<name>Corbières Tradition Rouge 2016 <domain>Chateau La Bastide</domain></name>
-				<caseprice>81.36</caseprice>
+				<caseprice>82.99</caseprice>
 				<description>
 					<person>Guilhem Durand</person> at Chateau La Bastide in Corbières in
 					France’s Languedoc makes some of the tastiest, best-value wines in the
@@ -527,7 +522,7 @@
 			</wine>
 			<wine>
 				<name>Rasteau Villages 2016 <domain>Domaine La Soumade</domain></name>
-				<caseprice>136.69</caseprice>
+				<caseprice>140.99</caseprice>
 				<description>
 					I’ve long been a fan of <person>André Romero</person>, who makes some of
 					the greatest wines in the southern Rhône area.  The American wine critic
@@ -561,7 +556,7 @@
 				</description>
 			</wine>
      		<wine>
-				<name>Piu 2014 <domain>Inama</domain></name>
+				<name>Carmenère Piu 2014 <domain>Inama</domain></name>
 				<caseprice>125.60</caseprice>
 				<description>
 					The gifted <person>Stefano Inama</person> has created another amazing
