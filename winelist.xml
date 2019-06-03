@@ -119,7 +119,7 @@
 		<style name="Whites" id="white">
 			<wine>
 				<name>Grüner Veltliner Löss 2018 <domain>Schloss Gobelsburg</domain></name>
-				<caseprice>100.80-</caseprice>
+				<caseprice>100.80</caseprice>
 				<description>
 					The Grüner Veltliner is Austria’s prime grape variety, producing dry,
 					fruity wines with an attractive peppery, herbal character. The finest
@@ -237,16 +237,16 @@
 		
 			<wine>
 			  <name>Falerio 2018 <domain>Saladini Pilastri</domain></name>
-        <caseprice>57.60</caseprice>
-        <description>
-          This tasty blend of Trebbiano, Passerina and Pecorino grapes comes
-          from the 300 year-old organic estate of Count Saladini Pilastri in The Marche region
-          of northeast Italy.  I love its crisp apple and pear flavours and would happily drink
-          it with lighter fare like <phrase lang="it">risotto</phrase> with prawns,
-          roast cod, or guinea fowl (<bottleprice/> a bottle).
-        </description>
-      </wine>
-      <wine>
+	        <caseprice>57.60</caseprice>
+	        <description>
+	          This tasty blend of Trebbiano, Passerina and Pecorino grapes comes
+	          from the 300 year-old organic estate of Count Saladini Pilastri in The Marche region
+	          of northeast Italy.  I love its crisp apple and pear flavours and would happily drink
+	          it with lighter fare like <phrase lang="it">risotto</phrase> with prawns,
+	          roast cod, or guinea fowl (<bottleprice/> a bottle).
+	        </description>
+	      </wine>
+	      <wine>
 				<name>Lugana 2017 <domain>Nunzio Ghiraldi</domain></name>
 				<caseprice>97.60</caseprice>
 				<description>
@@ -299,7 +299,7 @@
 					(<bottleprice/> a bottle)
 				</description>
 			</wine>
-      <wine>
+		    <wine>
 				<name>Albariño 2017<domain>Fefiñanes</domain></name>
 				<caseprice>152.64</caseprice>
 				<description>
